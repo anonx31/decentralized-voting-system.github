@@ -56,7 +56,7 @@ Welcome to the Decentralized Voting System project! This repository contains the
 
 Contributions are always welcome!
 
-We welcome contributions! Please read our `Contributing Guidelines` for ways to get started.
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for ways to get started.
 
 
 ## License
